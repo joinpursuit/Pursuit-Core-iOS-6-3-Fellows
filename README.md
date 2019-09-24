@@ -66,7 +66,7 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## D
 
 ## E 
-Eric Davenport[Github] (https://github.com/EricDavenport)
+Eric Davenport[Github](https://github.com/EricDavenport)
 
 
 
