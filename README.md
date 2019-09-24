@@ -46,14 +46,14 @@ Pursuit Core iOS 6.3 Fellows Github repositories.
 
 ## Instructor 
 
-Alex Paul [Github](https://github.com/alexpaul)  
+Alex Paul [Github](https://github.com/alexpaul)</br>
 
 ## Instructor Associates 
-Genesis Mosquera [Github](https://github.com/GMosquera1)  
-Antonio Flores [Github](https://github.com/AntonioFlores1)
+Genesis Mosquera [Github](https://github.com/GMosquera1)</br>  
+Antonio Flores [Github](https://github.com/AntonioFlores1)</br>
 
 ## Program Manager 
-Jaime Byrne [Github]()
+Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)</br>
 
 # iOS 6.3 Fellows Github Repositories
 
