@@ -62,6 +62,8 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## B 
 
 ## C
+Cameron Rivera [GitHub] (https://github.com/CameronRivera)
+
 
 ## D
 
