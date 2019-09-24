@@ -59,9 +59,9 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 ## A  
 
-## B Brendon Cecilio [github](https://github.com/bcecilio) . 
+## B 
 
-
+Brendon Cecilio [github](https://github.com/bcecilio) . 
 
 ## C
 
