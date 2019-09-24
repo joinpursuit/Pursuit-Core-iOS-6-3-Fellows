@@ -64,8 +64,6 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## C 
 Christian Hurtado [github.com](https://github.com/christianhurtado29)
 
-
-
 ## D
 
 ## E 
