@@ -59,6 +59,10 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 ## A  
 
+Anna Friemoth [github](https://github.com/annafriemoth)
+
+
+
 ## B 
 
 ## C
