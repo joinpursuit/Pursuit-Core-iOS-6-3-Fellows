@@ -66,7 +66,7 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## D
 
 ## E 
-Eddie O'Neill[GitHub](https://github.com/Eddieoneill) . 
+Eddie O'Neill [GitHub](https://github.com/Eddieoneill) . 
 
 
 ## F
