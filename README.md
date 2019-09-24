@@ -25,7 +25,7 @@ Pursuit Core iOS 6.3 Fellows Github repositories.
 1. To get in Edit mode click on the "pencil" icon in the menu bar on the Github page and do the following: 
 1. You MUST now be in Edit mode to carry on the following task
 1. Find the alphabet that corresponds to your first name, press the return key as needed for a new line beneath the alphabet heading. Enter the following: 
-1. ```Firstname Lastname [Github](your github url e.g https://github.com/alexpaul)</br>```
+1. ```Firstname Lastname [Github](your github url e.g https://github.com/alexpaul)<add two spaces by pressing the return key twice>```
 1. After adding your name to the **README** do the following: 
 1. Scroll to the bottom where you see the **Commit changes** button
 1. Add a commit message in the box below the Commit button (e.g firstname lastname added repo link to README)
@@ -46,14 +46,14 @@ Pursuit Core iOS 6.3 Fellows Github repositories.
 
 ## Instructor 
 
-Alex Paul [Github](https://github.com/alexpaul)</br>
+Alex Paul [Github](https://github.com/alexpaul)  
 
 ## Instructor Associates 
-Genesis Mosquera [Github](https://github.com/GMosquera1)</br>  
-Antonio Flores [Github](https://github.com/AntonioFlores1)</br>
+Genesis Mosquera [Github](https://github.com/GMosquera1)   
+Antonio Flores [Github](https://github.com/AntonioFlores1)  
 
 ## Program Manager 
-Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)</br>
+Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)  
 
 # iOS 6.3 Fellows Github Repositories
 
