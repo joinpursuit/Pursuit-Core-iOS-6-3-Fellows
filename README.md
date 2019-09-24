@@ -78,7 +78,7 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## J
 
 ## K 
-Kelby Mittan[Github](https://github.com/kelby-mittan)
+Kelby Mittan [Github](https://github.com/kelby-mittan)
 
 
 ## L
