@@ -93,7 +93,10 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
  
 ## R  
  
-## S 
+## S
+Shaniya[Github](https://github.com/suwagboe)
+
+
 
 ## T 
 
