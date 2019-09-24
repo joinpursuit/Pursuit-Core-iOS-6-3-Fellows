@@ -96,6 +96,9 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## S 
 
 ## T 
+Tsering Lama [Github](https://github.com/tseringlamanyc) 
+
+
 
 ## U
 
