@@ -75,7 +75,11 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 ## I 
 
-## J
+## J 
+
+Joshua Wynter [github] (http://github.com/joshuawynter)
+
+
 
 ## K 
 
