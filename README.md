@@ -74,7 +74,7 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## H 
 
 ## I 
-Ian Bailey[GitHub](https://github.com/IanKBailey)
+Ian Bailey [GitHub](https://github.com/IanKBailey)
 
 
 ## J
