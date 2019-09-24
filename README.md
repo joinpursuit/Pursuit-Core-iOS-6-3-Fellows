@@ -95,7 +95,7 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
  
 ## S 
 
-## T Tiffany [Github](https://github.com/TiffanyObi)
+## T Tiffany Obi [Github](https://github.com/TiffanyObi)
 
 
 
