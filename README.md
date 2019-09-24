@@ -94,7 +94,7 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## R  
  
 ## S 
-Stephanie N. Ramos[Github](https://github.com/Stephanie-Ramos)
+Stephanie Ramos[Github](https://github.com/Stephanie-Ramos)
 
 
 
