@@ -79,7 +79,9 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 ## K 
 
-## L
+## Lorraine [gitHub](https://github.com/lorrainethomas/)
+
+
 
 ## M 
 
