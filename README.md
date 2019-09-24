@@ -71,7 +71,7 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 ## G 
 
-## H 
+## H Howard Chang [github](https://github.com/howardC56)
 
 ## I 
 
