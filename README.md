@@ -66,6 +66,9 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 Brendon Cecilio [github](https://github.com/bcecilio) . 
 
 ## C
+Chelsi Christmas [Github](https://github.com/chelsichristmas)
+
+
 
 ## D
 
