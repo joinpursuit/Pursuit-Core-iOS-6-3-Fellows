@@ -61,6 +61,10 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 
 
+Anna Friemoth [github](https://github.com/annafriemoth)
+
+
+
 ## B 
 
 Brendon Cecilio [github](https://github.com/bcecilio) . 
