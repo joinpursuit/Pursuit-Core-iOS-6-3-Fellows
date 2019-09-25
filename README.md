@@ -129,7 +129,10 @@ Melinda Diaz [Github](https://github.com/melindadiaz)
  
 ## R  
  
-## S 
+## S
+Shaniya[Github](https://github.com/suwagboe)
+
+
 
 Stephanie Ramos[Github](https://github.com/Stephanie-Ramos)
 
