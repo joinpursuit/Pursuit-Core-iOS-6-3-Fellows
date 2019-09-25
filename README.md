@@ -101,24 +101,24 @@ Juan Ceballos [Github](https://github.com/Juan-Ceballos)
 Jaheed Haynes [Github](https://github.com/jaheedhaynes)  
 
 ## K 
-Kelby Mittan [Github](https://github.com/kelby-mittan)
+Kelby Mittan [Github](https://github.com/kelby-mittan)   
 
 
-## Lorraine [gitHub](https://github.com/lorrainethomas/)
-
-
-
-## M Maitree Bain [Github](https://github.com/maitreebain)  
+## Lorraine [gitHub](https://github.com/lorrainethomas/)    
 
 
 
-Melinda Diaz [Github](https://github.com/melindadiaz)
+## M Maitree Bain [Github](https://github.com/maitreebain)   
+
+
+
+Melinda Diaz [Github](https://github.com/melindadiaz)   
 
 
 
 ## N
 
-## O  Oscar Victoria Gonzalez[Github](https://github.com/oscarvictoria). 
+## O  Oscar Victoria Gonzalez[Github](https://github.com/oscarvictoria)   
 
 ## P 
 
@@ -132,9 +132,8 @@ Stephanie Ramos[Github](https://github.com/Stephanie-Ramos)
 
 
 ## T 
-Tsering Lama [Github](https://github.com/tseringlamanyc) 
-
-
+Tiffany Obi [Github](https://github.com/TiffanyObi)   
+Tsering Lama [Github](https://github.com/tseringlamanyc)   
 
 ## U
 
