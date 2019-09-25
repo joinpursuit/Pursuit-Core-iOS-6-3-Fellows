@@ -84,6 +84,8 @@ Juan Ceballos [Github](https://github.com/Juan-Ceballos)
 
 Jaheed Haynes [Github](https://github.com/jaheedhaynes)
 ## K 
+Kelby Mittan [Github](https://github.com/kelby-mittan)
+
 
 ## L
 
