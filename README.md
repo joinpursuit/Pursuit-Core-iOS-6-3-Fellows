@@ -57,37 +57,82 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 # iOS 6.3 Fellows Github Repositories
 
-## A  
+## A   
+
+Adam Diaz [Github](https://github.com/adam-diaz)
+Andrea Evans [Github](https://github.com/andievans-iOS)    
+Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)     
+Anna Friemoth [github](https://github.com/annafriemoth)  
 
 ## B 
 
+Brendon Cecilio [Github](https://github.com/bcecilio) . 
+
 ## C
+
+Chelsi Christmas [Github](https://github.com/chelsichristmas)
+
+
 
 ## D
 
+David Lin [Github](https://github.com/DavidLin91)
+
+
 ## E 
+
+Eddie O'Neill [GitHub](https://github.com/Eddieoneill)   
+Eric Davenport [Github](https://github.com/EricDavenport)   
 
 ## F
 
-## G 
+## G
+
+Gregory Keeley [GitHub](https://github.com/GregKeeley)
+
 
 ## H 
 
+Howard Chang [Github](https://github.com/howardC56)
+
 ## I 
 
-## J
+Ian Bailey [GitHub](https://github.com/IanKBailey)
+
+
+## J 
+
+Joshua Wynter [Github] (http://github.com/joshuawynter)  
+Juan Ceballos [Github](https://github.com/Juan-Ceballos)  
+Jaheed Haynes [Github](https://github.com/jaheedhaynes)  
 
 ## K 
 
-## Lilia Yudina [Github](http://github.com/yudinal)
+Kelby Mittan [Github](https://github.com/kelby-mittan)   
 
 
+## L
 
-## M 
+Lilia Yudina [Github](http://github.com/yudinal)
+Luba Kaper [Github](https://github.com/lubakaper)  
+Lorraine [GitHub](https://github.com/lorrainethomas/)     
+
+## M
+
+Margiett Gil [Github](https://github.com/Margiett)
+
+
+## M
+
+Miguel Aquino [Github](https://github.com/migueluser7)   
+Maitree Bain [Github](https://github.com/maitreebain)   
+Melinda Diaz [Github](https://github.com/melindadiaz)   
 
 ## N
 
 ## O  
+
+Oscar Victoria Gonzalez [Github](https://github.com/oscarvictoria)   
 
 ## P 
 
@@ -95,9 +140,17 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
  
 ## R  
  
-## S 
+## S
+Shaniya [Github](https://github.com/suwagboe)
+
+
+
+Stephanie Ramos [Github](https://github.com/Stephanie-Ramos)
 
 ## T 
+
+Tiffany Obi [Github](https://github.com/TiffanyObi)   
+Tsering Lama [Github](https://github.com/tseringlamanyc)   
 
 ## U
 
@@ -107,7 +160,14 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 ## X
 
+Xera agana [Github](http://github.com/xeraagana)
+
+
+
 ## Y
+Yuliia Engman[Github](https://github.com/YuliiaEngman)
+
+
 
 ## Z
 
