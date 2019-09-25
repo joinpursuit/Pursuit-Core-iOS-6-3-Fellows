@@ -57,13 +57,11 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 # iOS 6.3 Fellows Github Repositories
 
-## A Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi) 
+## A  
 
-
-
-Anna Friemoth [github](https://github.com/annafriemoth)
-
-
+Andrea Evans [Github](https://github.com/andievans-iOS)    
+Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)     
+Anna Friemoth [github](https://github.com/annafriemoth)  
 
 ## B 
 
@@ -101,14 +99,19 @@ Juan Ceballos [Github](https://github.com/Juan-Ceballos)
 Jaheed Haynes [Github](https://github.com/jaheedhaynes)  
 
 ## K 
+
 Kelby Mittan [Github](https://github.com/kelby-mittan)   
 
 
-## Lorraine [gitHub](https://github.com/lorrainethomas/)    
+## L
+
+Lorraine [gitHub](https://github.com/lorrainethomas/)    
 
 
 
-## M Maitree Bain [Github](https://github.com/maitreebain)   
+## M
+
+Maitree Bain [Github](https://github.com/maitreebain)   
 
 
 
@@ -127,11 +130,11 @@ Melinda Diaz [Github](https://github.com/melindadiaz)
 ## R  
  
 ## S 
+
 Stephanie Ramos[Github](https://github.com/Stephanie-Ramos)
 
-
-
 ## T 
+
 Tiffany Obi [Github](https://github.com/TiffanyObi)   
 Tsering Lama [Github](https://github.com/tseringlamanyc)   
 
@@ -141,7 +144,9 @@ Tsering Lama [Github](https://github.com/tseringlamanyc)
 
 ## W
 
-## Xera agana [github](http://github.com/xeraagana)
+## X
+
+Xera agana [github](http://github.com/xeraagana)
 
 
 
