@@ -60,47 +60,49 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## A   
 
 Adam Diaz [Github](https://github.com/adam-diaz)
-
 Andrea Evans [Github](https://github.com/andievans-iOS)    
 Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)     
 Anna Friemoth [github](https://github.com/annafriemoth)  
 
 ## B 
 
-Brendon Cecilio [github](https://github.com/bcecilio) . 
+Brendon Cecilio [Github](https://github.com/bcecilio) . 
 
 ## C
+
 Chelsi Christmas [Github](https://github.com/chelsichristmas)
 
 
 
 ## D
+
 David Lin [Github](https://github.com/DavidLin91)
 
 
-
 ## E 
-Eric Davenport[Github](https://github.com/EricDavenport)
 
-
+Eddie O'Neill [GitHub](https://github.com/Eddieoneill)   
+Eric Davenport [Github](https://github.com/EricDavenport)   
 
 ## F
 
-## G 
+## G
+
 Gregory Keeley [GitHub](https://github.com/GregKeeley)
 
 
 ## H 
 
-Howard Chang [github](https://github.com/howardC56)
+Howard Chang [Github](https://github.com/howardC56)
 
 ## I 
+
 Ian Bailey [GitHub](https://github.com/IanKBailey)
 
 
 ## J 
 
-Joshua Wynter [github] (http://github.com/joshuawynter)  
+Joshua Wynter [Github] (http://github.com/joshuawynter)  
 Juan Ceballos [Github](https://github.com/Juan-Ceballos)  
 Jaheed Haynes [Github](https://github.com/jaheedhaynes)  
 
@@ -110,11 +112,9 @@ Kelby Mittan [Github](https://github.com/kelby-mittan)
 
 
 ## L
+
 Luba Kaper [Github](https://github.com/lubakaper)  
-
-
-
-Lorraine [gitHub](https://github.com/lorrainethomas/)     
+Lorraine [GitHub](https://github.com/lorrainethomas/)     
 
 ## M
 
@@ -131,7 +131,7 @@ Melinda Diaz [Github](https://github.com/melindadiaz)
 
 ## O  
 
-Oscar Victoria Gonzalez[Github](https://github.com/oscarvictoria)   
+Oscar Victoria Gonzalez [Github](https://github.com/oscarvictoria)   
 
 ## P 
 
@@ -140,11 +140,11 @@ Oscar Victoria Gonzalez[Github](https://github.com/oscarvictoria)
 ## R  
  
 ## S
-Shaniya[Github](https://github.com/suwagboe)
+Shaniya [Github](https://github.com/suwagboe)
 
 
 
-Stephanie Ramos[Github](https://github.com/Stephanie-Ramos)
+Stephanie Ramos [Github](https://github.com/Stephanie-Ramos)
 
 ## T 
 
@@ -159,7 +159,7 @@ Tsering Lama [Github](https://github.com/tseringlamanyc)
 
 ## X
 
-Xera agana [github](http://github.com/xeraagana)
+Xera agana [Github](http://github.com/xeraagana)
 
 
 
