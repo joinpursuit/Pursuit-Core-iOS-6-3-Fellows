@@ -96,6 +96,9 @@ Jaheed Haynes [Github](https://github.com/jaheedhaynes)
 ## R  
  
 ## S 
+Stephanie Ramos[Github](https://github.com/Stephanie-Ramos)
+
+
 
 ## T 
 
