@@ -70,7 +70,8 @@ Bienbenido Angeles [Github](https://github.com/bienbenidoangeles/)
 
 Brendon Cecilio [Github](https://github.com/bcecilio) . 
 
-## C
+## C 
+Christian Hurtado [Github](https://github.com/christianhurtado29)
 
 Chelsi Christmas [Github](https://github.com/chelsichristmas)
 
