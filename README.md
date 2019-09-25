@@ -90,7 +90,9 @@ Jaheed Haynes [Github](https://github.com/jaheedhaynes)
 Kelby Mittan [Github](https://github.com/kelby-mittan)
 
 
-## L
+## Lorraine [gitHub](https://github.com/lorrainethomas/)
+
+
 
 ## M 
 
