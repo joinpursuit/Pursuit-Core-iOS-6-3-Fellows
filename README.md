@@ -112,6 +112,9 @@ Stephanie Ramos[Github](https://github.com/Stephanie-Ramos)
 
 
 ## T 
+Tsering Lama [Github](https://github.com/tseringlamanyc) 
+
+
 
 ## U
 
