@@ -88,7 +88,9 @@ Eric Davenport[Github](https://github.com/EricDavenport)
 
 ## G 
 
-## H Howard Chang [github](https://github.com/howardC56)
+## H 
+
+Howard Chang [github](https://github.com/howardC56)
 
 ## I 
 Ian Bailey [GitHub](https://github.com/IanKBailey)
@@ -122,7 +124,9 @@ Melinda Diaz [Github](https://github.com/melindadiaz)
 
 ## N
 
-## O  Oscar Victoria Gonzalez[Github](https://github.com/oscarvictoria)   
+## O  
+
+Oscar Victoria Gonzalez[Github](https://github.com/oscarvictoria)   
 
 ## P 
 
