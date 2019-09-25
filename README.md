@@ -76,7 +76,9 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## I 
 
 ## J
-Juan Ceballos [Github](https://github.com/Juan-Ceballos)    
+Juan Ceballos [Github](https://github.com/Juan-Ceballos) 
+
+Jaheed Haynes [Github](https://github.com/jaheedhaynes)
 ## K 
 
 ## L
