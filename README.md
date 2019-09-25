@@ -65,6 +65,8 @@ Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)
 Anna Friemoth [github](https://github.com/annafriemoth)  
 
 ## B 
+Bienbenido Angeles [Github](https://github.com/bienbenidoangeles/)
+
 
 Brendon Cecilio [Github](https://github.com/bcecilio) . 
 
