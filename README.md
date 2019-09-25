@@ -49,46 +49,87 @@ Pursuit Core iOS 6.3 Fellows Github repositories.
 Alex Paul [Github](https://github.com/alexpaul)  
 
 ## Instructor Associates 
-Genesis Mosquera [Github](https://github.com/GMosquera1)   
+
 Antonio Flores [Github](https://github.com/AntonioFlores1)  
+Genesis Mosquera [Github](https://github.com/GMosquera1)   
 
 ## Program Manager 
+
 Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)  
 
 # iOS 6.3 Fellows Github Repositories
 
 ## A  
-Ahad Islam [Github](https://github.com/ahadislam1)
-
-
+Ahad Islam [Github](https://github.com/ahadislam1) 
+Adam Diaz [Github](https://github.com/adam-diaz)
+Andrea Evans [Github](https://github.com/andievans-iOS)    
+Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)     
+Anna Friemoth [Github](https://github.com/annafriemoth)  
 
 ## B 
+Bienbenido Angeles [Github](https://github.com/bienbenidoangeles/)
+Brendon Cecilio [Github](https://github.com/bcecilio) . 
 
-## C
+## C 
+
+Christian Hurtado [Github](https://github.com/christianhurtado29)
+Chelsi Christmas [Github](https://github.com/chelsichristmas)
+Casandra Grullon [Github](https://github.com/CasandraGrullon)  
 
 ## D
 
+David Lin [Github](https://github.com/DavidLin91)
+
 ## E 
+
+Eddie O'Neill [GitHub](https://github.com/Eddieoneill)   
+Eric Davenport [Github](https://github.com/EricDavenport)   
 
 ## F
 
-## G 
+## G
+
+Gregory Keeley [GitHub](https://github.com/GregKeeley)
 
 ## H 
 
+Howard Chang [Github](https://github.com/howardC56)
+
 ## I 
 
-## J
+Ian Bailey [GitHub](https://github.com/IanKBailey)
+
+
+## J 
+
+Joshua Wynter [Github] (http://github.com/joshuawynter)  
+Juan Ceballos [Github](https://github.com/Juan-Ceballos)  
+Jaheed Haynes [Github](https://github.com/jaheedhaynes)  
 
 ## K 
 
+Kelby Mittan [Github](https://github.com/kelby-mittan)   
+
+
 ## L
 
-## M 
+Lilia Yudina [Github](http://github.com/yudinal)
+Luba Kaper [Github](https://github.com/lubakaper)  
+Lorraine [GitHub](https://github.com/lorrainethomas/) 
+
+## M
+
+Matthew Ramos [Github](https://github.com/MatthewRamos1/Matthew-Ramos)
+Margiett Gil [Github](https://github.com/Margiett)
+Miguel Aquino [Github](https://github.com/migueluser7)   
+Maitree Bain [Github](https://github.com/maitreebain)   
+Melinda Diaz [Github](https://github.com/melindadiaz)   
 
 ## N
 
 ## O  
+
+Oscar Victoria Gonzalez [Github](https://github.com/oscarvictoria)   
 
 ## P 
 
@@ -96,9 +137,15 @@ Ahad Islam [Github](https://github.com/ahadislam1)
  
 ## R  
  
-## S 
+## S
+
+Shaniya [Github](https://github.com/suwagboe)
+Stephanie Ramos [Github](https://github.com/Stephanie-Ramos)
 
 ## T 
+
+Tiffany Obi [Github](https://github.com/TiffanyObi)   
+Tsering Lama [Github](https://github.com/tseringlamanyc)   
 
 ## U
 
@@ -108,7 +155,10 @@ Ahad Islam [Github](https://github.com/ahadislam1)
 
 ## X
 
+Xera agana [Github](http://github.com/xeraagana)
+
 ## Y
+Yuliia Engman[Github](https://github.com/YuliiaEngman)
 
 ## Z
 
