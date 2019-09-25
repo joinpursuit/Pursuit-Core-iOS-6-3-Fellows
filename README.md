@@ -113,9 +113,9 @@ Kelby Mittan [Github](https://github.com/kelby-mittan)
 
 ## L
 
-Lilia Yudina [Github](http://github.com/yudinal)
-Luba Kaper [Github](https://github.com/lubakaper)  
-Lorraine [GitHub](https://github.com/lorrainethomas/) 
+Lilia Yudina [Github](http://github.com/yudinal)  
+Luba Kaper [Github](https://github.com/lubakaper)   
+Lorraine [GitHub](https://github.com/lorrainethomas/)   
 
 ## M
 
