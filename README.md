@@ -102,7 +102,7 @@ Ian Bailey [GitHub](https://github.com/IanKBailey)
 
 ## J 
 
-Joshua Wynter [Github] (http://github.com/joshuawynter)  
+Joshua Wynter [Github](http://github.com/joshuawynter)  
 Juan Ceballos [Github](https://github.com/Juan-Ceballos)  
 Jaheed Haynes [Github](https://github.com/jaheedhaynes)  
 
