@@ -94,10 +94,12 @@ Eric Davenport[Github](https://github.com/EricDavenport)
 Ian Bailey [GitHub](https://github.com/IanKBailey)
 
 
-## J
-Juan Ceballos [Github](https://github.com/Juan-Ceballos) 
+## J 
 
-Jaheed Haynes [Github](https://github.com/jaheedhaynes)
+Joshua Wynter [github] (http://github.com/joshuawynter)  
+Juan Ceballos [Github](https://github.com/Juan-Ceballos)  
+Jaheed Haynes [Github](https://github.com/jaheedhaynes)  
+
 ## K 
 Kelby Mittan [Github](https://github.com/kelby-mittan)
 
