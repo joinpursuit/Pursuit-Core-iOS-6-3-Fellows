@@ -57,7 +57,9 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 # iOS 6.3 Fellows Github Repositories
 
-## A  
+## A   
+
+Adam Diaz [Github](https://github.com/adam-diaz)
 
 Andrea Evans [Github](https://github.com/andievans-iOS)    
 Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)     
