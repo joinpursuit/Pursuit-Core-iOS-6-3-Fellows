@@ -49,10 +49,12 @@ Pursuit Core iOS 6.3 Fellows Github repositories.
 Alex Paul [Github](https://github.com/alexpaul)  
 
 ## Instructor Associates 
-Genesis Mosquera [Github](https://github.com/GMosquera1)   
+
 Antonio Flores [Github](https://github.com/AntonioFlores1)  
+Genesis Mosquera [Github](https://github.com/GMosquera1)   
 
 ## Program Manager 
+
 Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)  
 
 # iOS 6.3 Fellows Github Repositories
@@ -117,15 +119,12 @@ Kelby Mittan [Github](https://github.com/kelby-mittan)
 
 Lilia Yudina [Github](http://github.com/yudinal)
 Luba Kaper [Github](https://github.com/lubakaper)  
-Lorraine [GitHub](https://github.com/lorrainethomas/)     
+Lorraine [GitHub](https://github.com/lorrainethomas/) 
 
 ## M
 
+Matthew Ramos [Github](https://github.com/MatthewRamos1/Matthew-Ramos)
 Margiett Gil [Github](https://github.com/Margiett)
-
-
-## M
-
 Miguel Aquino [Github](https://github.com/migueluser7)   
 Maitree Bain [Github](https://github.com/maitreebain)   
 Melinda Diaz [Github](https://github.com/melindadiaz)   
@@ -143,10 +142,8 @@ Oscar Victoria Gonzalez [Github](https://github.com/oscarvictoria)
 ## R  
  
 ## S
+
 Shaniya [Github](https://github.com/suwagboe)
-
-
-
 Stephanie Ramos [Github](https://github.com/Stephanie-Ramos)
 
 ## T 
