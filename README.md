@@ -59,17 +59,15 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 # iOS 6.3 Fellows Github Repositories
 
-## A   
-
+## A  
+Ahad Islam [Github](https://github.com/ahadislam1) 
 Adam Diaz [Github](https://github.com/adam-diaz)
 Andrea Evans [Github](https://github.com/andievans-iOS)    
 Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)     
-Anna Friemoth [github](https://github.com/annafriemoth)  
+Anna Friemoth [Github](https://github.com/annafriemoth)  
 
 ## B 
 Bienbenido Angeles [Github](https://github.com/bienbenidoangeles/)
-
-
 Brendon Cecilio [Github](https://github.com/bcecilio) . 
 
 ## C 
@@ -82,7 +80,6 @@ Casandra Grullon [Github](https://github.com/CasandraGrullon)
 
 David Lin [Github](https://github.com/DavidLin91)
 
-
 ## E 
 
 Eddie O'Neill [GitHub](https://github.com/Eddieoneill)   
@@ -93,7 +90,6 @@ Eric Davenport [Github](https://github.com/EricDavenport)
 ## G
 
 Gregory Keeley [GitHub](https://github.com/GregKeeley)
-
 
 ## H 
 
@@ -161,12 +157,8 @@ Tsering Lama [Github](https://github.com/tseringlamanyc)
 
 Xera agana [Github](http://github.com/xeraagana)
 
-
-
 ## Y
 Yuliia Engman[Github](https://github.com/YuliiaEngman)
-
-
 
 ## Z
 
