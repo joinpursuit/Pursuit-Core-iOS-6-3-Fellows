@@ -57,37 +57,71 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 
 # iOS 6.3 Fellows Github Repositories
 
-## A  Andrea Evans [Github](https://github.com/andievans-iOS)
+## A  
 
-
+Andrea Evans [Github](https://github.com/andievans-iOS)    
+Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)     
+Anna Friemoth [github](https://github.com/annafriemoth)  
 
 ## B 
 
+Brendon Cecilio [github](https://github.com/bcecilio) . 
+
 ## C
+Chelsi Christmas [Github](https://github.com/chelsichristmas)
+
+
 
 ## D
+David Lin [Github](https://github.com/DavidLin91)
+
+
 
 ## E 
+Eric Davenport[Github](https://github.com/EricDavenport)
+
+
 
 ## F
 
 ## G 
 
-## H 
+## H Howard Chang [github](https://github.com/howardC56)
 
 ## I 
+Ian Bailey [GitHub](https://github.com/IanKBailey)
 
-## J
+
+## J 
+
+Joshua Wynter [github] (http://github.com/joshuawynter)  
+Juan Ceballos [Github](https://github.com/Juan-Ceballos)  
+Jaheed Haynes [Github](https://github.com/jaheedhaynes)  
 
 ## K 
 
+Kelby Mittan [Github](https://github.com/kelby-mittan)   
+
+
 ## L
 
-## M 
+Lorraine [gitHub](https://github.com/lorrainethomas/)    
+
+
+
+## M
+
+Maitree Bain [Github](https://github.com/maitreebain)   
+
+
+
+Melinda Diaz [Github](https://github.com/melindadiaz)   
+
+
 
 ## N
 
-## O  
+## O  Oscar Victoria Gonzalez[Github](https://github.com/oscarvictoria)   
 
 ## P 
 
@@ -97,7 +131,12 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
  
 ## S 
 
+Stephanie Ramos[Github](https://github.com/Stephanie-Ramos)
+
 ## T 
+
+Tiffany Obi [Github](https://github.com/TiffanyObi)   
+Tsering Lama [Github](https://github.com/tseringlamanyc)   
 
 ## U
 
@@ -106,6 +145,10 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 ## W
 
 ## X
+
+Xera agana [github](http://github.com/xeraagana)
+
+
 
 ## Y
 
