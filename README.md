@@ -81,7 +81,7 @@ Eric Davenport[Github](https://github.com/EricDavenport)
 
 ## G 
 
-## H 
+## H Howard Chang [github](https://github.com/howardC56)
 
 ## I 
 
