@@ -91,6 +91,8 @@ Eric Davenport[Github](https://github.com/EricDavenport)
 ## H Howard Chang [github](https://github.com/howardC56)
 
 ## I 
+Ian Bailey [GitHub](https://github.com/IanKBailey)
+
 
 ## J
 Juan Ceballos [Github](https://github.com/Juan-Ceballos) 
