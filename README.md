@@ -105,19 +105,13 @@ Kelby Mittan [Github](https://github.com/kelby-mittan)
 
 ## L
 
-Lorraine [gitHub](https://github.com/lorrainethomas/)    
-
-
+Lorraine [gitHub](https://github.com/lorrainethomas/)     
 
 ## M
 
+Miguel Aquino [Github](https://github.com/migueluser7)   
 Maitree Bain [Github](https://github.com/maitreebain)   
-
-
-
 Melinda Diaz [Github](https://github.com/melindadiaz)   
-
-
 
 ## N
 
