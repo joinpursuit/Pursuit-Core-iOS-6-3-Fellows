@@ -60,20 +60,20 @@ Jaime Byrne [Github](https://github.com/Jamiestrutzbyrne)
 # iOS 6.3 Fellows Github Repositories
 
 ## A  
-Ahad Islam [Github](https://github.com/ahadislam1) 
-Adam Diaz [Github](https://github.com/adam-diaz)
-Andrea Evans [Github](https://github.com/andievans-iOS)    
+Ahad Islam [Github](https://github.com/ahadislam1)  
+Adam Diaz [Github](https://github.com/adam-diaz)  
+Andrea Evans [Github](https://github.com/andievans-iOS)     
 Ameni Alsaydi [GitHub](https://github.com/AmeniAlsaydi)     
 Anna Friemoth [Github](https://github.com/annafriemoth)  
 
 ## B 
-Bienbenido Angeles [Github](https://github.com/bienbenidoangeles/)
-Brendon Cecilio [Github](https://github.com/bcecilio) . 
+Bienbenido Angeles [Github](https://github.com/bienbenidoangeles/)   
+Brendon Cecilio [Github](https://github.com/bcecilio)   
 
 ## C 
 
-Christian Hurtado [Github](https://github.com/christianhurtado29)
-Chelsi Christmas [Github](https://github.com/chelsichristmas)
+Christian Hurtado [Github](https://github.com/christianhurtado29)  
+Chelsi Christmas [Github](https://github.com/chelsichristmas)  
 Casandra Grullon [Github](https://github.com/CasandraGrullon)  
 
 ## D
@@ -119,9 +119,9 @@ Lorraine [GitHub](https://github.com/lorrainethomas/)
 
 ## M
 
-Matthew Ramos [Github](https://github.com/MatthewRamos1/Matthew-Ramos)
-Margiett Gil [Github](https://github.com/Margiett)
-Miguel Aquino [Github](https://github.com/migueluser7)   
+Matthew Ramos [Github](https://github.com/MatthewRamos1/Matthew-Ramos)  
+Margiett Gil [Github](https://github.com/Margiett)  
+Miguel Aquino [Github](https://github.com/migueluser7)    
 Maitree Bain [Github](https://github.com/maitreebain)   
 Melinda Diaz [Github](https://github.com/melindadiaz)   
 
@@ -139,7 +139,7 @@ Oscar Victoria Gonzalez [Github](https://github.com/oscarvictoria)
  
 ## S
 
-Shaniya [Github](https://github.com/suwagboe)
+Shaniya [Github](https://github.com/suwagboe)  
 Stephanie Ramos [Github](https://github.com/Stephanie-Ramos)
 
 ## T 
