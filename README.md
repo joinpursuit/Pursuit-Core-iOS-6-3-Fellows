@@ -75,6 +75,7 @@ Brendon Cecilio [Github](https://github.com/bcecilio)
 Christian Hurtado [Github](https://github.com/christianhurtado29)  
 Chelsi Christmas [Github](https://github.com/chelsichristmas)  
 Casandra Grullon [Github](https://github.com/CasandraGrullon)  
+Cameron Rivera [Github](https://github.com/CameronRivera)   
 
 ## D
 
