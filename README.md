@@ -145,6 +145,7 @@ Stephanie Ramos [Github](https://github.com/Stephanie-Ramos)
 
 ## T 
 
+Tanya Burke [Github](https://github.com/tanyaburke)  
 Tiffany Obi [Github](https://github.com/TiffanyObi)   
 Tsering Lama [Github](https://github.com/tseringlamanyc)   
 
